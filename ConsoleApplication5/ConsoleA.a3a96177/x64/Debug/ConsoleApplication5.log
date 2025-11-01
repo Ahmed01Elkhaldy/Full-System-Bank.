@@ -1,0 +1,32 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(43,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(47,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(56,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(80,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(100,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(399,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(464,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(470,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsDate.h(493,17): warning C4552: '*': result of expression not used
+  (compiling source file 'ConsoleApplication5.cpp')
+  
+  ConsoleApplication5.vcxproj -> C:\Users\ahmed\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
